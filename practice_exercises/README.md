@@ -1,0 +1,1 @@
+Exercises related to testing concepts learned in chapters of The Rust Programming Language.
