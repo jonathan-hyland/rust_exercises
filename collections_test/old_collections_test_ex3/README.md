@@ -1,0 +1,1 @@
+An older version of Exercise 3 that did not utilize modules and the code was overall more clunky. One example: in this code, the employee and department vectors were emptied and re-initialized after adding in each employee/department. The newer code instead uses a for loop with an index to iterate through the vector once all employees and departments are added.
