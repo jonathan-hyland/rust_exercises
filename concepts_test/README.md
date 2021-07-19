@@ -1,6 +1,5 @@
 The suggested exercises at the end of Chapter 3 of The Rust Programming Language.
 
-
 Ex1: (**Complete**) Convert temperatures between Fahrenheit and Celsius.
 
 Ex2: (**Complete**) Generate the nth Fibonacci number.
